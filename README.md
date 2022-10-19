@@ -1,28 +1,23 @@
-# ProjetoCartao
+# Cadastro Cartão
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+### Objetivo
 
-## Development server
+Criar uma página de cadastro de cartão que exibe as informações do cliente sendo inseridas simultaneamente na imagem do cartão. Para ter esse resultado foi utilizado o recurso DataBinding do framework Angular, e também foi criada uma lógica que troca a imagem da bandeira do cartão dependendo do número inicial inserido.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Tecnologias
 
-## Code scaffolding
+- Angular - Framework
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Link página:
 
-## Build
+### Imagens do projeto:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+![cartao3](https://user-images.githubusercontent.com/99519903/196720907-1bc91dfa-5fa5-4023-aa40-11b20ad9ff60.jpg)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![cartao1](https://user-images.githubusercontent.com/99519903/196720948-edf36647-2393-4435-ae9d-97fbca983281.jpg)
 
-## Running end-to-end tests
+![cartao2](https://user-images.githubusercontent.com/99519903/196720927-70ab6ded-1100-4c61-9a4f-c1d5a2781c76.jpg)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# Cadastro-Cartao
+### Projeto funcionando:
+![projeto-cartao](https://user-images.githubusercontent.com/99519903/196720846-426f8349-923d-43e7-ba82-2d97b97733dd.gif)
