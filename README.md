@@ -6,12 +6,17 @@ Criar uma página de cadastro de cartão que exibe as informações do cliente s
 
 ### Tecnologias
 
+- HTML, CSS;
+- TypeScript;
 - Angular - Framework
 
 ### Link página:
 
-### Imagens do projeto:
 
+### Projeto funcionando:
+![projeto-cartao](https://user-images.githubusercontent.com/99519903/196720846-426f8349-923d-43e7-ba82-2d97b97733dd.gif)
+
+### Imagens do projeto:
 
 ![cartao3](https://user-images.githubusercontent.com/99519903/196720907-1bc91dfa-5fa5-4023-aa40-11b20ad9ff60.jpg)
 
@@ -19,5 +24,4 @@ Criar uma página de cadastro de cartão que exibe as informações do cliente s
 
 ![cartao2](https://user-images.githubusercontent.com/99519903/196720927-70ab6ded-1100-4c61-9a4f-c1d5a2781c76.jpg)
 
-### Projeto funcionando:
-![projeto-cartao](https://user-images.githubusercontent.com/99519903/196720846-426f8349-923d-43e7-ba82-2d97b97733dd.gif)
+
