@@ -10,7 +10,6 @@ Criar uma página de cadastro de cartão que exibe as informações do cliente s
 - TypeScript;
 - Angular - Framework
 
-### Link página:
 
 
 ### Projeto funcionando:
